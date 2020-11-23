@@ -7,7 +7,7 @@ themesDir = "themes"
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
-Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+Paginate = 5 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
 
@@ -18,11 +18,11 @@ enableRobotsTXT = true
 
 [params]
   favicon = ""
-  description = "The last theme you'll ever need. Maybe."
+  description = "The last theme you'll ever need.lets see if its really the thing"
   facebook = ""
   twitter = "https://twitter.com/GoHugoIO"
-  instagram = ""
-  youtube = ""
+  instagram = "Hyderabaditom"
+  youtube = "https://www.youtube.com/channel/UCSpPTMM90FqzJmZhYwYBkHg/videos"
   github = ""
   gitlab = ""
   linkedin = ""
@@ -30,6 +30,6 @@ enableRobotsTXT = true
   slack = ""
   stackoverflow = ""
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
-  background_color_class = "bg-black"
+  background_color_class = "bg-dark-green"
   featured_image = "/images/gohugo-default-sample-hero-image.jpg"
-  recent_posts_number = 2
+  recent_posts_number = 4
