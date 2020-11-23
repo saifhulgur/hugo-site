@@ -1,6 +1,6 @@
-title = "test website"
+title = "test website for ASA bros"
 baseURL = "/hugo-website"
-languageCode = "en-us"
+languageCode = "en-in"
 theme = "gohugo-theme-ananke"
 themesDir = "themes"
 
